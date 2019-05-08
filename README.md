@@ -74,3 +74,7 @@ https://arxiv.org/pdf/1810.00028
 
 https://arxiv.org/pdf/1810.06613
 
+https://arxiv.org/pdf/1805.00202
+
+https://arxiv.org/pdf/1810.11780
+
