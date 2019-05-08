@@ -38,6 +38,14 @@ https://www.sciencedirect.com/science/article/pii/S0001457517303718
 
 https://www.sciencedirect.com/science/article/pii/S1877042812028984
 
+
+https://repository.tudelft.nl/islandora/object/uuid%3A6cae1b47-f44e-4b74-8bfd-9098ce843e68
+
+https://github.com/aljosaosep/camot
+
+https://github.com/aljosaosep/kitti-track-collection
+
+https://ieeexplore.ieee.org/abstract/document/8500678
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Sebastian_Bullinger_3D_Vehicle_Trajectory_ECCV_2018_paper.pdf
 
 https://www.hindawi.com/journals/jat/2019/9085238/
