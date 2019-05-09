@@ -1,5 +1,20 @@
 # self-driving
 
+Conditional Generative Neural System for ProbabilisticTrajectory Prediction
+https://arxiv.org/pdf/1905.01631.pdf
+
+Enhanced free space detection in multiple lanes based on single CNN with scene identification
+https://arxiv.org/abs/1905.00941
+
+Dynamic Environment Prediction in Urban Scenes using Recurrent Representation Learning
+https://arxiv.org/abs/1904.12374
+
+Autonomous engines driven by active matter: Energetics and design principles
+https://arxiv.org/abs/1905.00373
+
+An Efficient Reachability-Based Framework for Provably Safe Autonomous Navigation in Unknown Environments
+https://arxiv.org/abs/1905.00532
+
 https://arxiv.org/pdf/1809.07357.pdf
 
 https://arxiv.org/abs/1809.07357
