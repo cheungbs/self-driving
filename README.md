@@ -15,29 +15,37 @@ https://arxiv.org/abs/1905.00373
 An Efficient Reachability-Based Framework for Provably Safe Autonomous Navigation in Unknown Environments
 https://arxiv.org/abs/1905.00532
 
-https://arxiv.org/pdf/1809.07357.pdf
-
+Combined Image- and World-Space Tracking in Traffic Scenes
 https://arxiv.org/abs/1809.07357
 
+Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object Tracking
 https://arxiv.org/abs/1802.09298
 
+CAVBench: A Benchmark Suite for Connected and Autonomous Vehicles
 https://arxiv.org/abs/1810.06659
 
+Track, then Decide: Category-Agnostic Vision-based Multi-Object Tracking
 https://arxiv.org/abs/1712.07920
 
+Track, then decide: Category-Agnostic Multi-Object Tracking
 https://github.com/aljosaosep/camot
 
+Machine Learning Methods for Solving Assignment Problems in Multi-Target Tracking
 https://arxiv.org/abs/1802.06897
+
 
 https://www.mdpi.com/1424-8220/19/2/391/pdf
 
-https://arxiv.org/pdf/1901.09260
+4D Generic Video Object Proposals
+https://arxiv.org/abs/1901.09260
 
 https://d-nb.info/1172500460/34
 
-https://arxiv.org/pdf/1808.09297
+Stereo 3D Object Trajectory Reconstruction
+https://arxiv.org/abs/1808.09297
 
-https://arxiv.org/pdf/1902.03604
+MOTS: Multi-Object Tracking and Segmentation
+https://arxiv.org/abs/1902.03604
 
 https://macsphere.mcmaster.ca/bitstream/11375/22741/2/Wu_Qingsong_201712_PhD.pdf
 
@@ -45,6 +53,7 @@ https://asco.lcsr.jhu.edu/robust-obstacle-avoidance/
 
 http://www8.cs.umu.se/education/examina/Rapporter/465.pdf
 
+Data-Driven Vehicle Trajectory Forecasting
 http://arxiv.org/abs/1902.05400
 
 http://ws680.nist.gov/publication/get_pdf.cfm?pub_id=823570
@@ -75,21 +84,27 @@ http://gamma.cs.unc.edu/TDBM/ernest_IROS_submitted.pdf
 
 http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Cheung_Efficient_and_Safe_CVPR_2018_paper.pdf
 
-https://arxiv.org/pdf/1803.00881
+Identifying Driver Behaviors using Trajectory Features for Vehicle Navigation
+https://arxiv.org/abs/1803.00881
 
 http://gamma.cs.unc.edu/TDBM/IROS_W_2018_Aniket.pdf
 
-https://arxiv.org/pdf/1812.04767
+TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions
+https://arxiv.org/abs/1812.04767
 
 http://gamma.cs.unc.edu/TDBM/Ernest_IROS_W_2018.pdf
 
 https://project.inria.fr/ppniv18/files/2018/10/presentationCheungr.pdf
 
+Data-Driven Modeling of Group Entitativity in Virtual Environments
 https://arxiv.org/pdf/1810.00028
 
-https://arxiv.org/pdf/1810.06613
+Pedestrian Dominance Modeling for Socially-Aware Robot Navigation
+https://arxiv.org/abs/1810.06613
 
-https://arxiv.org/pdf/1805.00202
+Controlled Tracking in Urban Terrain: Closing the Loop
+https://arxiv.org/abs/1805.00202
 
-https://arxiv.org/pdf/1810.11780
+Deep Affinity Network for Multiple Object Tracking
+https://arxiv.org/abs/1810.11780
 
