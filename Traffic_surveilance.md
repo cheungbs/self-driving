@@ -57,5 +57,9 @@ http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Kieritz_Join
 A Comprehensive Survey of Video Datasets for Background Subtraction   
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8706931
 
-Simple, online, and realtime tracking of multiple objects in a video sequence.
+Simple, online, and realtime tracking of multiple objects in a video sequence.    
 https://github.com/abewley/sort
+
+Multi-Object-Tracking-Paper-List
+https://github.com/SpyderXu/multi-object-tracking-paper-list
+
