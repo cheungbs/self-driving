@@ -51,3 +51,11 @@ https://www.eurekalert.org/pub_releases/2019-02/nrco-ewa022119.php
 
 https://pdfs.semanticscholar.org/0d2c/0c38dc1ca910a9961a651986bc717c40089f.pdf
 
+Joint detection and online multi-object tracking
+http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Kieritz_Joint_Detection_and_CVPR_2018_paper.pdf
+
+A Comprehensive Survey of Video Datasets for Background Subtraction   
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8706931
+
+Simple, online, and realtime tracking of multiple objects in a video sequence.
+https://github.com/abewley/sort
