@@ -27,3 +27,27 @@ https://www.pelco.com/traffic-monitoring
 Intelligent Traffic Systems: Implementation and What’s Down the Road?    
 https://www.cleantech.com/intelligent-traffic-systems-implementation-and-whats-down-the-road/
 
+AIC2018 Report: Traffic Surveillance Research    
+http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Mao_AIC2018_Report_Traffic_CVPR_2018_paper.html
+
+International Workshop on Traffic and Street Surveillance for Safety and Security
+https://iwt4s.wordpress.com/
+
+AVSS 2018
+https://avss2018.org/workshops
+
+1st Workshop on Automatic Traffic Surveillance (ATS 2015)    
+https://avss2015.org/program/august-25-workshop-demo-day/1st-workshop-on-automatic-traffic-surveillance-ats-2015/
+
+Efficient Scene Layout Aware Object Detection for Traffic Surveillance    
+https://www.taowang.info/project-traffic/    
+https://github.com/realwecan/traffic-context-detection
+
+The Network Traffic Measurement and Analysis Conference (TMA)
+https://tma.ifip.org/
+
+ETRI won AVSS contest on traffic surveillance technology
+https://www.eurekalert.org/pub_releases/2019-02/nrco-ewa022119.php
+
+https://pdfs.semanticscholar.org/0d2c/0c38dc1ca910a9961a651986bc717c40089f.pdf
+
