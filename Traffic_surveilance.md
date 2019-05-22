@@ -67,5 +67,5 @@ Traffic Intelligence Project
 https://bitbucket.org/Nicolas/trafficintelligence/wiki/Home    
 http://n.saunier.free.fr/saunier/
 
-UrbanTrackingTools
+UrbanTrackingTools    
 https://bitbucket.org/jpjodoin/urbantrackingtools/src/master/
