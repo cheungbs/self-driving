@@ -70,5 +70,9 @@ http://n.saunier.free.fr/saunier/
 UrbanTrackingTools    
 https://bitbucket.org/jpjodoin/urbantrackingtools/src/master/
 
-16th IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS)
+16th IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS)    
 http://avss2019.org/
+
+UA-DETRAC Benchmark Suite
+http://detrac-db.rit.albany.edu/
+
